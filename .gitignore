@@ -1,0 +1,8 @@
+.idea/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+HW1/data/
+HW1/*.log
+HW1/*-fast.ipynb
+HW1/preview/
