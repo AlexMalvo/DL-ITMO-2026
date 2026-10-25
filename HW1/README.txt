@@ -25,3 +25,24 @@
 
 Для обучения рекомендуется GPU. На CPU adversarial training и серии PGD могут
 занимать существенно больше времени. Укажите использованное устройство в notebook.
+
+Запуск решения
+- Основной файл: hw1.ipynb. Выбрана targeted attack (5.2).
+- Включены бонусы 7.1, 7.2, 7.4 и 7.5: всего до 4 дополнительных баллов.
+- Полный прогон из нового kernel с сохранением outputs после каждой ячейки:
+  python run_notebook.py
+- Отладочный прогон с уменьшенным бюджетом:
+  python run_notebook.py --fast
+  Его результат записывается в hw1-fast.ipynb. Файлы artifacts при этом также
+  перезаписываются; перед сдачей выполните полный прогон ещё раз.
+- Итоговые файлы: hw1.ipynb, artifacts/metrics.json, три checkpoint .pt
+  и artifacts/additional_metrics.json с результатами бонусов и малых опытов.
+- Данные в data/ загружаются автоматически и в Git не включаются.
+
+Окружение GPU-прогона
+- Windows, Python 3.13.9, NVIDIA RTX 3090 24 GB, PyTorch 2.11.0+cu130.
+- CUDA-сборка для использованного драйвера устанавливается до остальных зависимостей:
+  python -m pip install torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytorch.org/whl/cu130
+  python -m pip install -r requirements.txt
+- Для импорта PyTorch на Windows нужен актуальный Microsoft Visual C++ v14 Runtime:
+  https://learn.microsoft.com/cpp/windows/latest-supported-vc-redist
