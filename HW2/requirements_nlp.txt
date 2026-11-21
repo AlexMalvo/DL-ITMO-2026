@@ -1,0 +1,7 @@
+torch>=2.4
+transformers==5.22.1
+datasets==5.1.0
+accelerate==1.15.0
+seqeval==1.2.2
+numpy
+matplotlib

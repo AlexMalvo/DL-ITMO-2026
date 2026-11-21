@@ -1,0 +1,17 @@
+.idea/
+.venv/
+.venv-*/
+.cache/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+HW*/data/
+HW*/runs/
+HW*/cache/
+HW*/preview/
+HW*/*.log
+HW*/*.tmp
+HW*/*-fast.ipynb
+HW*/*-cpu.ipynb
+HW2/artifacts/*.onnx
+HW2/artifacts/*_quantized.onnx

@@ -1,0 +1,1668 @@
+{
+  "original_cells": [
+    {
+      "id": "setup-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": null,
+          "role": "markdown",
+          "task_id": "setup"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:setup",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "setup-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": null,
+          "role": "markdown",
+          "task_id": "setup"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:setup",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "setup-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": null,
+          "role": "answer",
+          "task_id": "setup"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:setup",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "setup-install-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": null,
+          "role": "code",
+          "task_id": "setup"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:setup",
+          "code"
+        ]
+      }
+    },
+    {
+      "id": "setup-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": null,
+          "role": "code",
+          "task_id": "setup"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:setup",
+          "code"
+        ]
+      }
+    },
+    {
+      "id": "setup-code-02",
+      "metadata": {
+        "hw2": {
+          "definitions": [
+            "get_device",
+            "set_seed"
+          ],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": null,
+          "role": "code",
+          "task_id": "setup"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:setup",
+          "code",
+          "definitions"
+        ]
+      }
+    },
+    {
+      "id": "setup-code-03",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": null,
+          "role": "code",
+          "task_id": "setup"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:setup",
+          "code",
+          "tests"
+        ]
+      }
+    },
+    {
+      "id": "1-1-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1.5,
+          "role": "markdown",
+          "task_id": "1.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "1-1-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 1.5,
+          "role": "code",
+          "task_id": "1.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.1",
+          "code",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "1-1-code-02",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1.5,
+          "role": "code",
+          "task_id": "1.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.1",
+          "code",
+          "tests"
+        ]
+      }
+    },
+    {
+      "id": "1-1-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1.5,
+          "role": "markdown",
+          "task_id": "1.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "1-1-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1.5,
+          "role": "answer",
+          "task_id": "1.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.1",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "1-2-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2.5,
+          "role": "markdown",
+          "task_id": "1.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.2",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "1-2-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2.5,
+          "role": "code",
+          "task_id": "1.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.2",
+          "code"
+        ]
+      }
+    },
+    {
+      "id": "1-2-code-02",
+      "metadata": {
+        "hw2": {
+          "definitions": [
+            "params_by_block"
+          ],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 2.5,
+          "role": "code",
+          "task_id": "1.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.2",
+          "code",
+          "definitions",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "1-2-code-03",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2.5,
+          "role": "code",
+          "task_id": "1.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.2",
+          "code",
+          "tests"
+        ]
+      }
+    },
+    {
+      "id": "1-2-code-04",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 2.5,
+          "role": "code",
+          "task_id": "1.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.2",
+          "code",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "1-2-code-05",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2.5,
+          "role": "code",
+          "task_id": "1.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.2",
+          "code",
+          "tests"
+        ]
+      }
+    },
+    {
+      "id": "1-2-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2.5,
+          "role": "markdown",
+          "task_id": "1.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.2",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "1-2-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2.5,
+          "role": "answer",
+          "task_id": "1.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:1.2",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "2-1-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1.5,
+          "role": "markdown",
+          "task_id": "2.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "2-1-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1.5,
+          "role": "code",
+          "task_id": "2.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.1",
+          "code"
+        ]
+      }
+    },
+    {
+      "id": "2-1-code-02",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 1.5,
+          "role": "code",
+          "task_id": "2.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.1",
+          "code",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "2-1-code-03",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 1.5,
+          "role": "code",
+          "task_id": "2.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.1",
+          "code",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "2-1-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1.5,
+          "role": "markdown",
+          "task_id": "2.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "2-1-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1.5,
+          "role": "answer",
+          "task_id": "2.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.1",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "2-2-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2.5,
+          "role": "markdown",
+          "task_id": "2.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.2",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "2-2-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [
+            "bio_to_spans",
+            "spans_to_bio",
+            "align_labels"
+          ],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 2.5,
+          "role": "code",
+          "task_id": "2.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.2",
+          "code",
+          "definitions",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "2-2-code-02",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2.5,
+          "role": "code",
+          "task_id": "2.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.2",
+          "code",
+          "tests"
+        ]
+      }
+    },
+    {
+      "id": "2-2-code-03",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 2.5,
+          "role": "code",
+          "task_id": "2.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.2",
+          "code",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "2-2-code-04",
+      "metadata": {
+        "hw2": {
+          "definitions": [
+            "subset",
+            "tokenize_and_align"
+          ],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2.5,
+          "role": "code",
+          "task_id": "2.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.2",
+          "code",
+          "definitions",
+          "tests"
+        ]
+      }
+    },
+    {
+      "id": "2-2-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2.5,
+          "role": "markdown",
+          "task_id": "2.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.2",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "2-2-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2.5,
+          "role": "answer",
+          "task_id": "2.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:2.2",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "3-1-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2,
+          "role": "markdown",
+          "task_id": "3.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:3.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "3-1-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [
+            "predict_word_tags",
+            "entity_scores",
+            "make_model"
+          ],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2,
+          "role": "code",
+          "task_id": "3.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:3.1",
+          "code",
+          "definitions"
+        ]
+      }
+    },
+    {
+      "id": "3-1-code-02",
+      "metadata": {
+        "hw2": {
+          "definitions": [
+            "fit_majority_tagger",
+            "predict_majority"
+          ],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 2,
+          "role": "code",
+          "task_id": "3.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:3.1",
+          "code",
+          "definitions",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "3-1-code-03",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 2,
+          "role": "code",
+          "task_id": "3.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:3.1",
+          "code",
+          "tests",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "3-1-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2,
+          "role": "markdown",
+          "task_id": "3.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:3.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "3-1-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2,
+          "role": "answer",
+          "task_id": "3.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:3.1",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "4-1-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 3,
+          "role": "markdown",
+          "task_id": "4.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:4.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "4-1-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [
+            "train_ner"
+          ],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 3,
+          "role": "code",
+          "task_id": "4.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:4.1",
+          "code",
+          "definitions",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "4-1-code-02",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 3,
+          "role": "code",
+          "task_id": "4.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:4.1",
+          "code",
+          "tests"
+        ]
+      }
+    },
+    {
+      "id": "4-1-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 3,
+          "role": "markdown",
+          "task_id": "4.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:4.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "4-1-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 3,
+          "role": "answer",
+          "task_id": "4.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:4.1",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "4-2-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 3,
+          "role": "markdown",
+          "task_id": "4.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:4.2",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "4-2-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [
+            "token_f1"
+          ],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 3,
+          "role": "code",
+          "task_id": "4.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:4.2",
+          "code",
+          "definitions",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "4-2-code-02",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 3,
+          "role": "code",
+          "task_id": "4.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:4.2",
+          "code",
+          "tests",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "4-2-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 3,
+          "role": "markdown",
+          "task_id": "4.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:4.2",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "4-2-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 3,
+          "role": "answer",
+          "task_id": "4.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:4.2",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "5-1-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2,
+          "role": "markdown",
+          "task_id": "5.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "5-1-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [
+            "categorize_errors"
+          ],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 2,
+          "role": "code",
+          "task_id": "5.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.1",
+          "code",
+          "definitions",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "5-1-code-02",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 2,
+          "role": "code",
+          "task_id": "5.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.1",
+          "code",
+          "tests",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "5-1-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2,
+          "role": "markdown",
+          "task_id": "5.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "5-1-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 2,
+          "role": "answer",
+          "task_id": "5.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.1",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "5-2-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "5.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.2",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "5-2-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": null,
+          "has_solution": true,
+          "points": 1,
+          "role": "code",
+          "task_id": "5.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.2",
+          "code",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "5-2-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "5.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.2",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "5-2-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1,
+          "role": "answer",
+          "task_id": "5.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.2",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "5-3-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "5.3"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.3",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "5-3-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1,
+          "role": "answer",
+          "task_id": "5.3"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.3",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "5-3-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "5.3"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.3",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "5-3-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [
+            "json_ready"
+          ],
+          "enabled_if": null,
+          "has_solution": false,
+          "points": 1,
+          "role": "code",
+          "task_id": "5.3"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:5.3",
+          "code",
+          "definitions",
+          "tests"
+        ]
+      }
+    },
+    {
+      "id": "6-1-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.1' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1.5,
+          "role": "markdown",
+          "task_id": "6.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "6-1-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": "'6.1' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1.5,
+          "role": "code",
+          "task_id": "6.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.1",
+          "code"
+        ]
+      }
+    },
+    {
+      "id": "6-1-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.1' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1.5,
+          "role": "markdown",
+          "task_id": "6.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.1",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "6-1-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.1' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1.5,
+          "role": "answer",
+          "task_id": "6.1"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.1",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "6-2-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.2' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "6.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.2",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "6-2-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": "'6.2' in BONUS_TASKS",
+          "has_solution": true,
+          "points": 1,
+          "role": "code",
+          "task_id": "6.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.2",
+          "code",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "6-2-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.2' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "6.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.2",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "6-2-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.2' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "answer",
+          "task_id": "6.2"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.2",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "6-3-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.3' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "6.3"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.3",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "6-3-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": "'6.3' in BONUS_TASKS",
+          "has_solution": true,
+          "points": 1,
+          "role": "code",
+          "task_id": "6.3"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.3",
+          "code",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "6-3-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.3' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "6.3"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.3",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "6-3-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.3' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "answer",
+          "task_id": "6.3"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.3",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "6-4-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.4' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "6.4"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.4",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "6-4-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": "'6.4' in BONUS_TASKS",
+          "has_solution": true,
+          "points": 1,
+          "role": "code",
+          "task_id": "6.4"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.4",
+          "code",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "6-4-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.4' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "6.4"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.4",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "6-4-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.4' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "answer",
+          "task_id": "6.4"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.4",
+          "answer"
+        ]
+      }
+    },
+    {
+      "id": "6-5-markdown-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.5' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "6.5"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.5",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "6-5-code-01",
+      "metadata": {
+        "hw2": {
+          "definitions": [],
+          "enabled_if": "'6.5' in BONUS_TASKS",
+          "has_solution": true,
+          "points": 1,
+          "role": "code",
+          "task_id": "6.5"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.5",
+          "code",
+          "solution"
+        ]
+      }
+    },
+    {
+      "id": "6-5-markdown-02",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.5' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "markdown",
+          "task_id": "6.5"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.5",
+          "markdown"
+        ]
+      }
+    },
+    {
+      "id": "6-5-answer-01",
+      "metadata": {
+        "hw2": {
+          "enabled_if": "'6.5' in BONUS_TASKS",
+          "has_solution": false,
+          "points": 1,
+          "role": "answer",
+          "task_id": "6.5"
+        },
+        "tags": [
+          "hw2",
+          "nlp",
+          "task:6.5",
+          "answer"
+        ]
+      }
+    }
+  ],
+  "assertions": {
+    "setup-code-03": [
+      "Assert(test=Compare(left=Name(id='BONUS_TASKS', ctx=Load()), ops=[LtE()], comparators=[Set(elts=[Constant(value='6.1'), Constant(value='6.2'), Constant(value='6.3'), Constant(value='6.4'), Constant(value='6.5')])]))"
+    ],
+    "1-1-code-02": [
+      "Assert(test=Name(id='MODEL_ID', ctx=Load()), msg=Constant(value='укажите MODEL_ID'))",
+      "Assert(test=Call(func=Attribute(value=Name(id='re', ctx=Load()), attr='fullmatch', ctx=Load()), args=[Constant(value='[0-9a-f]{40}'), BoolOp(op=Or(), values=[Name(id='REVISION', ctx=Load()), Constant(value='')])], keywords=[]), msg=Constant(value='REVISION - полный commit hash из 40 символов, а не main и не тег'))",
+      "Assert(test=Attribute(value=Name(id='tokenizer', ctx=Load()), attr='is_fast', ctx=Load()), msg=Constant(value='нужен fast-токенизатор: word_ids() есть только у него'))"
+    ],
+    "1-2-code-03": [
+      "Assert(test=Compare(left=Call(func=Name(id='sum', ctx=Load()), args=[GeneratorExp(elt=Subscript(value=Name(id='blocks', ctx=Load()), slice=Name(id='k', ctx=Load()), ctx=Load()), generators=[comprehension(target=Name(id='k', ctx=Store()), iter=List(elts=[Constant(value='embeddings'), Constant(value='encoder'), Constant(value='head'), Constant(value='other')], ctx=Load()), ifs=[], is_async=0)])], keywords=[]), ops=[Eq()], comparators=[Name(id='total', ctx=Load())]))",
+      "Assert(test=Compare(left=Subscript(value=Name(id='blocks', ctx=Load()), slice=Constant(value='head'), ctx=Load()), ops=[Eq()], comparators=[BinOp(left=BinOp(left=Attribute(value=Name(id='cfg', ctx=Load()), attr='hidden_size', ctx=Load()), op=Mult(), right=Name(id='N_DEMO_LABELS', ctx=Load())), op=Add(), right=Name(id='N_DEMO_LABELS', ctx=Load()))]))",
+      "Assert(test=BoolOp(op=And(), values=[Compare(left=Call(func=Name(id='len', ctx=Load()), args=[Subscript(value=Name(id='blocks', ctx=Load()), slice=Constant(value='layers'), ctx=Load())], keywords=[]), ops=[Eq()], comparators=[Attribute(value=Name(id='cfg', ctx=Load()), attr='num_hidden_layers', ctx=Load())]), Compare(left=Call(func=Name(id='sum', ctx=Load()), args=[Subscript(value=Name(id='blocks', ctx=Load()), slice=Constant(value='layers'), ctx=Load())], keywords=[]), ops=[Eq()], comparators=[Subscript(value=Name(id='blocks', ctx=Load()), slice=Constant(value='encoder'), ctx=Load())])]), msg=Constant(value='encoder - сумма слоев, все вне слоев (например, rel_embeddings у DeBERTa) - в other'))",
+      "Assert(test=Compare(left=Subscript(value=Name(id='blocks', ctx=Load()), slice=Constant(value='embeddings'), ctx=Load()), ops=[GtE()], comparators=[BinOp(left=Attribute(value=Name(id='cfg', ctx=Load()), attr='vocab_size', ctx=Load()), op=Mult(), right=Attribute(value=Name(id='cfg', ctx=Load()), attr='hidden_size', ctx=Load()))]))"
+    ],
+    "1-2-code-05": [
+      "Assert(test=BoolOp(op=And(), values=[Compare(left=Name(id='B', ctx=Load()), ops=[Eq()], comparators=[Constant(value=2)]), Compare(left=Attribute(value=Attribute(value=Name(id='out', ctx=Load()), attr='logits', ctx=Load()), attr='shape', ctx=Load()), ops=[Eq()], comparators=[Tuple(elts=[Name(id='B', ctx=Load()), Name(id='T', ctx=Load()), Name(id='N_DEMO_LABELS', ctx=Load())], ctx=Load())])]))",
+      "Assert(test=Compare(left=Call(func=Name(id='len', ctx=Load()), args=[Attribute(value=Name(id='out', ctx=Load()), attr='hidden_states', ctx=Load())], keywords=[]), ops=[Eq()], comparators=[BinOp(left=Attribute(value=Name(id='cfg', ctx=Load()), attr='num_hidden_layers', ctx=Load()), op=Add(), right=Constant(value=1))]))",
+      "Assert(test=Call(func=Name(id='all', ctx=Load()), args=[GeneratorExp(elt=Compare(left=Attribute(value=Name(id='h', ctx=Load()), attr='shape', ctx=Load()), ops=[Eq()], comparators=[Tuple(elts=[Name(id='B', ctx=Load()), Name(id='T', ctx=Load()), Attribute(value=Name(id='cfg', ctx=Load()), attr='hidden_size', ctx=Load())], ctx=Load())]), generators=[comprehension(target=Name(id='h', ctx=Store()), iter=Attribute(value=Name(id='out', ctx=Load()), attr='hidden_states', ctx=Load()), ifs=[], is_async=0)])], keywords=[]))"
+    ],
+    "2-2-code-02": [
+      "Assert(test=Compare(left=Call(func=Name(id='bio_to_spans', ctx=Load()), args=[Name(id='tags', ctx=Load())], keywords=[]), ops=[Eq()], comparators=[List(elts=[Tuple(elts=[Constant(value=0), Constant(value=2), Constant(value='PER')], ctx=Load()), Tuple(elts=[Constant(value=3), Constant(value=4), Constant(value='LOC')], ctx=Load()), Tuple(elts=[Constant(value=4), Constant(value=6), Constant(value='LOC')], ctx=Load()), Tuple(elts=[Constant(value=7), Constant(value=8), Constant(value='ORG')], ctx=Load())], ctx=Load())]))",
+      "Assert(test=Compare(left=Call(func=Name(id='spans_to_bio', ctx=Load()), args=[Call(func=Name(id='bio_to_spans', ctx=Load()), args=[Name(id='tags', ctx=Load())], keywords=[]), Call(func=Name(id='len', ctx=Load()), args=[Name(id='tags', ctx=Load())], keywords=[])], keywords=[]), ops=[Eq()], comparators=[Name(id='tags', ctx=Load())]))",
+      "Assert(test=Compare(left=Call(func=Name(id='bio_to_spans', ctx=Load()), args=[List(elts=[Constant(value='O'), Constant(value='I-PER'), Constant(value='I-PER'), Constant(value='O')], ctx=Load())], keywords=[]), ops=[Eq()], comparators=[List(elts=[Tuple(elts=[Constant(value=1), Constant(value=3), Constant(value='PER')], ctx=Load())], ctx=Load())]))",
+      "Assert(test=Compare(left=Call(func=Name(id='bio_to_spans', ctx=Load()), args=[List(elts=[Constant(value='B-PER'), Constant(value='I-LOC'), Constant(value='I-LOC')], ctx=Load())], keywords=[]), ops=[Eq()], comparators=[List(elts=[Tuple(elts=[Constant(value=0), Constant(value=1), Constant(value='PER')], ctx=Load()), Tuple(elts=[Constant(value=1), Constant(value=3), Constant(value='LOC')], ctx=Load())], ctx=Load())]))",
+      "Assert(test=Compare(left=Call(func=Name(id='bio_to_spans', ctx=Load()), args=[List(elts=[Constant(value='B-art-film'), Constant(value='I-art-film'), Constant(value='O')], ctx=Load())], keywords=[]), ops=[Eq()], comparators=[List(elts=[Tuple(elts=[Constant(value=0), Constant(value=2), Constant(value='art-film')], ctx=Load())], ctx=Load())]))",
+      "Assert(test=BoolOp(op=And(), values=[Compare(left=Call(func=Name(id='bio_to_spans', ctx=Load()), args=[List(elts=[], ctx=Load())], keywords=[]), ops=[Eq()], comparators=[List(elts=[], ctx=Load())]), Compare(left=Call(func=Name(id='bio_to_spans', ctx=Load()), args=[BinOp(left=List(elts=[Constant(value='O')], ctx=Load()), op=Mult(), right=Constant(value=3))], keywords=[]), ops=[Eq()], comparators=[List(elts=[], ctx=Load())]), Compare(left=Call(func=Name(id='spans_to_bio', ctx=Load()), args=[List(elts=[], ctx=Load()), Constant(value=2)], keywords=[]), ops=[Eq()], comparators=[List(elts=[Constant(value='O'), Constant(value='O')], ctx=Load())])]))",
+      "Assert(test=Compare(left=Call(func=Name(id='align_labels', ctx=Load()), args=[List(elts=[Constant(value=1), Constant(value=0), Constant(value=3)], ctx=Load()), Name(id='word_ids', ctx=Load())], keywords=[]), ops=[Eq()], comparators=[List(elts=[UnaryOp(op=USub(), operand=Constant(value=100)), Constant(value=1), UnaryOp(op=USub(), operand=Constant(value=100)), Constant(value=0), Constant(value=3), UnaryOp(op=USub(), operand=Constant(value=100)), UnaryOp(op=USub(), operand=Constant(value=100)), UnaryOp(op=USub(), operand=Constant(value=100))], ctx=Load())]))",
+      "Assert(test=Compare(left=Call(func=Name(id='align_labels', ctx=Load()), args=[List(elts=[Constant(value=1), Constant(value=0), Constant(value=3)], ctx=Load()), Name(id='word_ids', ctx=Load())], keywords=[keyword(arg='b_to_i', value=Dict(keys=[Constant(value=1), Constant(value=3)], values=[Constant(value=2), Constant(value=4)]))]), ops=[Eq()], comparators=[List(elts=[UnaryOp(op=USub(), operand=Constant(value=100)), Constant(value=1), Constant(value=2), Constant(value=0), Constant(value=3), Constant(value=4), Constant(value=4), UnaryOp(op=USub(), operand=Constant(value=100))], ctx=Load())]))",
+      "Assert(test=Compare(left=Call(func=Name(id='align_labels', ctx=Load()), args=[List(elts=[Constant(value=2), Constant(value=6)], ctx=Load()), List(elts=[Constant(value=None), Constant(value=0), Constant(value=0), Constant(value=1), Constant(value=None)], ctx=Load())], keywords=[keyword(arg='b_to_i', value=Dict(keys=[Constant(value=1), Constant(value=5)], values=[Constant(value=2), Constant(value=6)]))]), ops=[Eq()], comparators=[List(elts=[UnaryOp(op=USub(), operand=Constant(value=100)), Constant(value=2), Constant(value=2), Constant(value=6), UnaryOp(op=USub(), operand=Constant(value=100))], ctx=Load())]))",
+      "Assert(test=Compare(left=Call(func=Name(id='align_labels', ctx=Load()), args=[List(elts=[Constant(value=5), Constant(value=6), Constant(value=0)], ctx=Load()), List(elts=[Constant(value=None), Constant(value=0), Constant(value=None)], ctx=Load())], keywords=[]), ops=[Eq()], comparators=[List(elts=[UnaryOp(op=USub(), operand=Constant(value=100)), Constant(value=5), UnaryOp(op=USub(), operand=Constant(value=100))], ctx=Load())]))",
+      "Assert(test=Compare(left=Call(func=Name(id='bio_to_spans', ctx=Load()), args=[Call(func=Name(id='spans_to_bio', ctx=Load()), args=[Name(id='spans', ctx=Load()), Name(id='n', ctx=Load())], keywords=[])], keywords=[]), ops=[Eq()], comparators=[Name(id='spans', ctx=Load())]), msg=Name(id='spans', ctx=Load()))"
+    ],
+    "2-2-code-04": [
+      "Assert(test=BoolOp(op=And(), values=[Call(func=Name(id='isinstance', ctx=Load()), args=[Name(id='raw', ctx=Load()), Name(id='DatasetDict', ctx=Load())], keywords=[]), Call(func=Name(id='isinstance', ctx=Load()), args=[Name(id='LABEL_NAMES', ctx=Load()), Name(id='list', ctx=Load())], keywords=[])]), msg=Constant(value='raw и LABEL_NAMES - из 2.1 (после конвертации в 2.2)'))",
+      "Assert(test=Compare(left=Set(elts=[Constant(value='train'), Constant(value='validation'), Constant(value='test')]), ops=[LtE()], comparators=[Call(func=Name(id='set', ctx=Load()), args=[Name(id='raw', ctx=Load())], keywords=[])]), msg=Constant(value='нужны сплиты train / validation / test'))",
+      "Assert(test=Compare(left=Set(elts=[Constant(value='tokens'), Constant(value='ner_tags')]), ops=[LtE()], comparators=[Call(func=Name(id='set', ctx=Load()), args=[Attribute(value=Subscript(value=Name(id='raw', ctx=Load()), slice=Constant(value='train'), ctx=Load()), attr='column_names', ctx=Load())], keywords=[])]))",
+      "Assert(test=BoolOp(op=And(), values=[Compare(left=Constant(value='O'), ops=[In()], comparators=[Name(id='LABEL_NAMES', ctx=Load())]), Call(func=Name(id='all', ctx=Load()), args=[GeneratorExp(elt=Call(func=Attribute(value=Name(id='re', ctx=Load()), attr='fullmatch', ctx=Load()), args=[Constant(value='O|[BI]-.+'), Name(id='t', ctx=Load())], keywords=[]), generators=[comprehension(target=Name(id='t', ctx=Store()), iter=Name(id='LABEL_NAMES', ctx=Load()), ifs=[], is_async=0)])], keywords=[])]), msg=Name(id='LABEL_NAMES', ctx=Load()))",
+      "Assert(test=Compare(left=Name(id='got', ctx=Load()), ops=[Eq()], comparators=[DictComp(key=Name(id='w', ctx=Load()), value=Subscript(value=Subscript(value=Name(id='ex', ctx=Load()), slice=Constant(value='ner_tags'), ctx=Load()), slice=Name(id='w', ctx=Load()), ctx=Load()), generators=[comprehension(target=Name(id='w', ctx=Store()), iter=BinOp(left=Call(func=Name(id='set', ctx=Load()), args=[Name(id='ids', ctx=Load())], keywords=[]), op=Sub(), right=Set(elts=[Constant(value=None)])), ifs=[], is_async=0)])]))",
+      "Assert(test=Compare(left=Call(func=Name(id='bio_to_spans', ctx=Load()), args=[Name(id='back', ctx=Load())], keywords=[]), ops=[Eq()], comparators=[Call(func=Name(id='bio_to_spans', ctx=Load()), args=[ListComp(elt=Subscript(value=Name(id='LABEL_NAMES', ctx=Load()), slice=Name(id='i', ctx=Load()), ctx=Load()), generators=[comprehension(target=Name(id='i', ctx=Store()), iter=Subscript(value=Name(id='ex', ctx=Load()), slice=Constant(value='ner_tags'), ctx=Load()), ifs=[], is_async=0)])], keywords=[])]))"
+    ],
+    "3-1-code-03": [
+      "Assert(test=BoolOp(op=And(), values=[Compare(left=Subscript(value=Name(id='toy', ctx=Load()), slice=Constant(value='Москве'), ctx=Load()), ops=[Eq()], comparators=[Constant(value='B-LOC')]), Compare(left=Subscript(value=Name(id='toy', ctx=Load()), slice=Constant(value='Анна'), ctx=Load()), ops=[Eq()], comparators=[Constant(value='B-PER')]), Compare(left=Subscript(value=Name(id='toy', ctx=Load()), slice=Constant(value='Каренина'), ctx=Load()), ops=[Eq()], comparators=[Constant(value='I-PER')])]))",
+      "Assert(test=Compare(left=Subscript(value=Call(func=Name(id='fit_majority_tagger', ctx=Load()), args=[BinOp(left=List(elts=[List(elts=[Constant(value='Ленина')], ctx=Load())], ctx=Load()), op=Mult(), right=Constant(value=4)), List(elts=[List(elts=[Constant(value='B-LOC')], ctx=Load()), List(elts=[Constant(value='B-PER')], ctx=Load()), List(elts=[Constant(value='B-PER')], ctx=Load()), List(elts=[Constant(value='B-ORG')], ctx=Load())], ctx=Load())], keywords=[]), slice=Constant(value='Ленина'), ctx=Load()), ops=[Eq()], comparators=[Constant(value='B-PER')]))",
+      "Assert(test=Compare(left=Call(func=Name(id='predict_majority', ctx=Load()), args=[Name(id='toy', ctx=Load()), List(elts=[Constant(value='Анна'), Constant(value='из'), Constant(value='Москве')], ctx=Load())], keywords=[]), ops=[Eq()], comparators=[List(elts=[Constant(value='B-PER'), Constant(value='O'), Constant(value='B-LOC')], ctx=Load())]))",
+      "Assert(test=Compare(left=Call(func=Name(id='predict_majority', ctx=Load()), args=[Name(id='toy', ctx=Load()), List(elts=[], ctx=Load())], keywords=[]), ops=[Eq()], comparators=[List(elts=[], ctx=Load())]))"
+    ],
+    "4-1-code-02": [
+      "Assert(test=BoolOp(op=And(), values=[Compare(left=Call(func=Name(id='len', ctx=Load()), args=[Name(id='train_curve', ctx=Load())], keywords=[]), ops=[GtE()], comparators=[Constant(value=2)]), Compare(left=Call(func=Name(id='len', ctx=Load()), args=[Name(id='eval_curve', ctx=Load())], keywords=[]), ops=[GtE()], comparators=[Constant(value=2)])]), msg=Constant(value='логируйте train и eval loss по ходу обучения'))"
+    ],
+    "4-2-code-02": [
+      "Assert(test=Compare(left=Call(func=Name(id='abs', ctx=Load()), args=[BinOp(left=Call(func=Name(id='token_f1', ctx=Load()), args=[Name(id='g', ctx=Load()), Name(id='p', ctx=Load())], keywords=[]), op=Sub(), right=Constant(value=0.8))], keywords=[]), ops=[Lt()], comparators=[Constant(value=1e-09)]))",
+      "Assert(test=Compare(left=Call(func=Name(id='abs', ctx=Load()), args=[BinOp(left=Call(func=Name(id='f1_score', ctx=Load()), args=[Name(id='g', ctx=Load()), Name(id='p', ctx=Load())], keywords=[]), op=Sub(), right=Constant(value=0.5))], keywords=[]), ops=[Lt()], comparators=[Constant(value=1e-09)]))",
+      "Assert(test=BoolOp(op=And(), values=[Compare(left=Call(func=Name(id='token_f1', ctx=Load()), args=[List(elts=[List(elts=[Constant(value='O'), Constant(value='O')], ctx=Load())], ctx=Load()), List(elts=[List(elts=[Constant(value='O'), Constant(value='O')], ctx=Load())], ctx=Load())], keywords=[]), ops=[Eq()], comparators=[Constant(value=0.0)]), Compare(left=Call(func=Name(id='token_f1', ctx=Load()), args=[Name(id='g', ctx=Load()), Name(id='g', ctx=Load())], keywords=[]), ops=[Eq()], comparators=[Constant(value=1.0)])]))"
+    ],
+    "5-1-code-02": [
+      "Assert(test=Compare(left=Call(func=Attribute(value=Name(id='collections', ctx=Load()), attr='Counter', ctx=Load()), args=[GeneratorExp(elt=Name(id='c', ctx=Load()), generators=[comprehension(target=Tuple(elts=[Name(id='c', ctx=Store()), Name(id='_', ctx=Store()), Name(id='_', ctx=Store())], ctx=Store()), iter=Name(id='res', ctx=Load()), ifs=[], is_async=0)])], keywords=[]), ops=[Eq()], comparators=[Dict(keys=[Constant(value='correct'), Constant(value='boundary'), Constant(value='type'), Constant(value='missed'), Constant(value='spurious')], values=[Constant(value=1), Constant(value=1), Constant(value=1), Constant(value=1), Constant(value=1)])]))",
+      "Assert(test=BoolOp(op=And(), values=[Compare(left=Tuple(elts=[Constant(value='type'), Tuple(elts=[Constant(value=7), Constant(value=9), Constant(value='ORG')], ctx=Load()), Tuple(elts=[Constant(value=7), Constant(value=9), Constant(value='LOC')], ctx=Load())], ctx=Load()), ops=[In()], comparators=[Name(id='res', ctx=Load())]), Compare(left=Tuple(elts=[Constant(value='spurious'), Constant(value=None), Tuple(elts=[Constant(value=13), Constant(value=14), Constant(value='ORG')], ctx=Load())], ctx=Load()), ops=[In()], comparators=[Name(id='res', ctx=Load())])]))",
+      "Assert(test=BoolOp(op=And(), values=[Compare(left=Tuple(elts=[Constant(value='boundary'), Tuple(elts=[Constant(value=4), Constant(value=5), Constant(value='LOC')], ctx=Load()), Tuple(elts=[Constant(value=4), Constant(value=6), Constant(value='LOC')], ctx=Load())], ctx=Load()), ops=[In()], comparators=[Name(id='res', ctx=Load())]), Compare(left=Tuple(elts=[Constant(value='missed'), Tuple(elts=[Constant(value=11), Constant(value=12), Constant(value='PER')], ctx=Load()), Constant(value=None)], ctx=Load()), ops=[In()], comparators=[Name(id='res', ctx=Load())])]))",
+      "Assert(test=BoolOp(op=And(), values=[Compare(left=Call(func=Name(id='categorize_errors', ctx=Load()), args=[List(elts=[], ctx=Load()), List(elts=[], ctx=Load())], keywords=[]), ops=[Eq()], comparators=[List(elts=[], ctx=Load())]), Compare(left=Call(func=Name(id='categorize_errors', ctx=Load()), args=[List(elts=[], ctx=Load()), List(elts=[Tuple(elts=[Constant(value=0), Constant(value=1), Constant(value='PER')], ctx=Load())], ctx=Load())], keywords=[]), ops=[Eq()], comparators=[List(elts=[Tuple(elts=[Constant(value='spurious'), Constant(value=None), Tuple(elts=[Constant(value=0), Constant(value=1), Constant(value='PER')], ctx=Load())], ctx=Load())], ctx=Load())])]))",
+      "Assert(test=Compare(left=ListComp(elt=Name(id='c', ctx=Load()), generators=[comprehension(target=Tuple(elts=[Name(id='c', ctx=Store()), Name(id='_', ctx=Store()), Name(id='_', ctx=Store())], ctx=Store()), iter=Call(func=Name(id='categorize_errors', ctx=Load()), args=[List(elts=[Tuple(elts=[Constant(value=0), Constant(value=3), Constant(value='LOC')], ctx=Load())], ctx=Load()), List(elts=[Tuple(elts=[Constant(value=1), Constant(value=2), Constant(value='PER')], ctx=Load()), Tuple(elts=[Constant(value=2), Constant(value=3), Constant(value='LOC')], ctx=Load())], ctx=Load())], keywords=[]), ifs=[], is_async=0)]), ops=[Eq()], comparators=[List(elts=[Constant(value='boundary')], ctx=Load())]))",
+      "Assert(test=Compare(left=ListComp(elt=Name(id='c', ctx=Load()), generators=[comprehension(target=Tuple(elts=[Name(id='c', ctx=Store()), Name(id='_', ctx=Store()), Name(id='_', ctx=Store())], ctx=Store()), iter=Call(func=Name(id='categorize_errors', ctx=Load()), args=[List(elts=[Tuple(elts=[Constant(value=0), Constant(value=2), Constant(value='LOC')], ctx=Load()), Tuple(elts=[Constant(value=2), Constant(value=4), Constant(value='LOC')], ctx=Load())], ctx=Load()), List(elts=[Tuple(elts=[Constant(value=0), Constant(value=4), Constant(value='LOC')], ctx=Load())], ctx=Load())], keywords=[]), ifs=[], is_async=0)]), ops=[Eq()], comparators=[List(elts=[Constant(value='boundary'), Constant(value='boundary')], ctx=Load())]))",
+      "Assert(test=Compare(left=Call(func=Name(id='sorted', ctx=Load()), args=[GeneratorExp(elt=Name(id='c', ctx=Load()), generators=[comprehension(target=Tuple(elts=[Name(id='c', ctx=Store()), Name(id='_', ctx=Store()), Name(id='_', ctx=Store())], ctx=Store()), iter=Call(func=Name(id='categorize_errors', ctx=Load()), args=[List(elts=[Tuple(elts=[Constant(value=0), Constant(value=2), Constant(value='PER')], ctx=Load())], ctx=Load()), List(elts=[Tuple(elts=[Constant(value=2), Constant(value=3), Constant(value='PER')], ctx=Load())], ctx=Load())], keywords=[]), ifs=[], is_async=0)])], keywords=[]), ops=[Eq()], comparators=[List(elts=[Constant(value='missed'), Constant(value='spurious')], ctx=Load())]))"
+    ],
+    "5-3-code-01": [
+      "Assert(test=Compare(left=Name(id='key', ctx=Load()), ops=[In()], comparators=[Name(id='final', ctx=Load())]), msg=JoinedStr(values=[Constant(value='в final нет '), FormattedValue(value=Name(id='key', ctx=Load()), conversion=-1)]))"
+    ]
+  },
+  "function_signatures": {
+    "get_device": "arguments(posonlyargs=[], args=[], kwonlyargs=[], kw_defaults=[], defaults=[])",
+    "set_seed": "arguments(posonlyargs=[], args=[arg(arg='seed')], kwonlyargs=[], kw_defaults=[], defaults=[Constant(value=0)])",
+    "params_by_block": "arguments(posonlyargs=[], args=[arg(arg='model')], kwonlyargs=[], kw_defaults=[], defaults=[])",
+    "bio_to_spans": "arguments(posonlyargs=[], args=[arg(arg='tags')], kwonlyargs=[], kw_defaults=[], defaults=[])",
+    "spans_to_bio": "arguments(posonlyargs=[], args=[arg(arg='spans'), arg(arg='n_words')], kwonlyargs=[], kw_defaults=[], defaults=[])",
+    "align_labels": "arguments(posonlyargs=[], args=[arg(arg='word_labels'), arg(arg='word_ids'), arg(arg='b_to_i')], kwonlyargs=[], kw_defaults=[], defaults=[Constant(value=None)])",
+    "subset": "arguments(posonlyargs=[], args=[arg(arg='ds'), arg(arg='n')], kwonlyargs=[], kw_defaults=[], defaults=[])",
+    "tokenize_and_align": "arguments(posonlyargs=[], args=[arg(arg='batch'), arg(arg='tok'), arg(arg='label_all_subwords')], kwonlyargs=[], kw_defaults=[], defaults=[Constant(value=None), Constant(value=False)])",
+    "predict_word_tags": "arguments(posonlyargs=[], args=[arg(arg='model'), arg(arg='tokens_list'), arg(arg='tok'), arg(arg='batch_size'), arg(arg='return_probs'), arg(arg='dev')], kwonlyargs=[], kw_defaults=[], defaults=[Constant(value=None), Constant(value=64), Constant(value=False), Constant(value=None)])",
+    "entity_scores": "arguments(posonlyargs=[], args=[arg(arg='gold'), arg(arg='pred')], kwonlyargs=[], kw_defaults=[], defaults=[])",
+    "make_model": "arguments(posonlyargs=[], args=[arg(arg='model_id'), arg(arg='revision')], kwonlyargs=[], kw_defaults=[], defaults=[Constant(value=None), Constant(value=None)])",
+    "fit_majority_tagger": "arguments(posonlyargs=[], args=[arg(arg='tokens_list'), arg(arg='tags_list')], kwonlyargs=[], kw_defaults=[], defaults=[])",
+    "predict_majority": "arguments(posonlyargs=[], args=[arg(arg='tagger'), arg(arg='words')], kwonlyargs=[], kw_defaults=[], defaults=[])",
+    "train_ner": "arguments(posonlyargs=[], args=[arg(arg='model'), arg(arg='train_ds'), arg(arg='eval_ds'), arg(arg='epochs'), arg(arg='lr'), arg(arg='batch_size'), arg(arg='freeze_encoder'), arg(arg='tok'), arg(arg='out_dir')], kwonlyargs=[], kw_defaults=[], defaults=[Name(id='EPOCHS', ctx=Load()), Name(id='LR', ctx=Load()), Name(id='BATCH_SIZE', ctx=Load()), Constant(value=False), Constant(value=None), Constant(value='runs/main')])",
+    "token_f1": "arguments(posonlyargs=[], args=[arg(arg='gold'), arg(arg='pred')], kwonlyargs=[], kw_defaults=[], defaults=[])",
+    "categorize_errors": "arguments(posonlyargs=[], args=[arg(arg='gold_spans'), arg(arg='pred_spans')], kwonlyargs=[], kw_defaults=[], defaults=[])",
+    "json_ready": "arguments(posonlyargs=[], args=[arg(arg='value')], kwonlyargs=[], kw_defaults=[], defaults=[])"
+  }
+}
